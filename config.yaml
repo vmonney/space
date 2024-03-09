@@ -1,0 +1,21 @@
+path: /Users/valentinmonney/Desktop/competitions/drivendata_spacecraft_detection/data/processed # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: spacecraft 2    
+  1: spacecraft 3    
+  2: spacecraft 5
+  3: spacecraft 6
+  4: spacecraft 11
+  5: spacecraft 13
+  6: spacecraft 14
+  7: spacecraft 18
+  8: spacecraft 19
+  9: spacecraft 20
+  10: spacecraft 22
+  11: spacecraft 24 
+  12: spacecraft 25
+  13: spacecraft 28
+  14: spacecraft 30
